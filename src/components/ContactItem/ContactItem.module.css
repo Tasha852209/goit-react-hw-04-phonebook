@@ -1,0 +1,9 @@
+.buttonDelete {
+  background-color: rgb(75, 75, 197);
+  color: white;
+  border-radius: 5px;
+}
+.buttonDelete:hover,
+.buttonDelete:focus {
+  background-color: rgb(141, 141, 226);
+}

@@ -1,0 +1,21 @@
+.form {
+  display: block;
+  width: 300px;
+  padding: 25px 10px;
+  margin-left: 20px;
+  border: 1px solid black;
+}
+p {
+  font-weight: 700;
+}
+.formButton {
+  display: block;
+  margin-top: 20px;
+  background-color: rgb(75, 75, 197);
+  color: white;
+  border-radius: 5px;
+}
+.formButton:hover,
+.formButton:focus {
+  background-color: rgb(141, 141, 226);
+}
